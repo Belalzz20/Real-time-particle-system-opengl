@@ -52,6 +52,6 @@ This project was developed to practice 3D graphics programming, particle simulat
 
 ## Authors
 
-**Belal Hesham**  **Abdelrahman Mohamed**
+**Belal Hesham** - **Abdelrahman Mohamed**
 
 GitHub: [@Belalzz20](https://github.com/Belalzz20)
