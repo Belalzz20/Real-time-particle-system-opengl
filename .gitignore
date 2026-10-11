@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Temporary files
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
